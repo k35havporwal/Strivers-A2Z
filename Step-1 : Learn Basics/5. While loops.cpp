@@ -1,3 +1,5 @@
+// While loop- printTable in reverse
+
 #include <iostream>
 #include <limits.h>
 using namespace std;
